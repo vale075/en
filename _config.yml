@@ -1,10 +1,10 @@
 remote_theme: sujaykundu777/devlopr-jekyll
 
 title: vale075
-subtitle: Un developpeur wannabe
+subtitle: A devloper wannabe
 description: >- # this means to ignore newlines until "baseurl:"
-  Le site d'un developpeur wannabe
-url: "vale075.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+  The website of a developer wannabe
+url: "https://vale075.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/en" # the subpath of your site, e.g. /blog
 
 urls:
@@ -13,11 +13,11 @@ urls:
 
 author_logo: profile.png
 author: vale075
-author_bio: Salut, je m'appelle vale, et j'aimerais devenir un programmeur!
+author_bio: Hi, my name's vale, and I'll like to become à programmer!
 #author_email: "johndoe@gmail.com"
 author_location: France
-author_website_url: "http://vale075.github.io"
-typewrite-text: Le site d'un developpeur wannabe
+author_website_url: "https://vale075.github.io"
+typewrite-text: The website of a developer wannabe
 
 author_work_experiences:
             - company_name:
@@ -40,7 +40,7 @@ author_education_details:
 author_project_details:
               - project_thumbnail: slimyquest.png
                 project_title: Slimy Quest
-                project_description: Jeu vidéo dont le hero est... un slime
+                project_description: A video game where the hero is a... slime?
                 project_url: https://github.com/AdriBird/Slimy_Quest
                 visibility: true
 # Can add more projects if necessary
